@@ -1,14 +1,24 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>
-      Ionic Blank
+    <ion-title mode="ios">
+      Parisitologia
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+<ion-content class="card-background-page">
+	<ion-card *ngFor="let categoria of categorias" (click)="goToPergunta($index)">
+		<img src="{{categoria.imagem}}">
+		<div class="card-title">{{categoria.nome}}</div>
+	</ion-card>
+	
+	<!-- <ion-card>
+		<img src="assets/imgs/logo.png"/>
+		<div class="card-title">São Paulo</div>
+	</ion-card>
+
+	<ion-card>
+		<img src="ainda-nao-tem"/>
+		<div class="card-title">Em Breve</div>
+	</ion-card> -->
 </ion-content>

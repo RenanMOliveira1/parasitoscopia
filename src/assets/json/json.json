@@ -1,0 +1,2549 @@
+{
+    "categorias": [
+        {
+            "categoria": "protozoários intestinais",
+            "grupos": [
+                {
+                    "nome": "Ancilostomídeo",
+                    "imagem": "./assets/imgs/01.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina e transparente",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepática",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ancilostomose",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "São nematoides parasitos de intestino delgado de diversas espécies de hospedeiro como humanos, canídeos e felídeos. Inserem-se nesse grupo os gêneros Ancylostoma  e Necator. Os ovos são similares morfologicamente e por isso são normalmente nomeados por ancilostomídeos.",
+                    "caracteristica": "Ovo elipsóide de casca fina e transparente, de forma ovóide com massa embrionária no interior que se fragmenta formando uma mórula e posteriormente uma larva, ocorrendo redução do espaço claro entre a casca e a massa a medida que a larva se desenvolve. Os ovos podem ser encontrados em diferentes fases de desenvolvimento. Tamanho: 56 a 76 µm de comprimento."
+                },
+                {
+                    "nome": "Ancilostomídeo",
+                    "imagem": "./assets/imgs/02.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato ovóide",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "massa embrionária que se fragmenta até formar uma larva",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepática",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ancilostomose",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "Ovo elipsóide de casca fina e transparente, de forma ovóide com massa embrionária no interior que se fragmenta formando uma mórula e posteriormente uma larva, ocorrendo redução do espaço claro entre a casca e a massa a medida que a larva se desenvolve. Os ovos podem ser encontrados em diferentes fases de desenvolvimento. Tamanho: 56 a 76 µm de comprimento.",
+                    "caracteristica": "São nematoides parasitos de intestino delgado de diversas espécies de hospedeiro como humanos, canídeos e felídeos. Inserem-se nesse grupo os gêneros Ancylostoma  e Necator. Os ovos são similares morfologicamente e por isso são normalmente nomeados por ancilostomídeos."
+                },
+                {
+                    "nome": "Ascaris lumbricoides",
+                    "imagem": "./assets/imgs/03.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaridiose",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "OVO FÉRTIL de formato oval ou quase esférico de casca espessa e célula ovo no interior, formada por três camadas apresentando em média, 60µm de comprimento. A camada mais externa recebe o nome de membrana mamilonada."
+                },
+                {
+                    "nome": "Balantidium coli",
+                    "imagem": "./assets/imgs/04.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Balantidíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO arredondado de membrana cística espessa, presença de um macronúcleo riniforme, com um micronúcleo não visível e dois vacúolos pulsáteis."
+                },
+                {
+                    "nome": "Balantidium coli",
+                    "imagem": "./assets/imgs/05.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Balantidíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO arredondado de membrana cística espessa, presença de um macronúcleo riniforme, com um micronúcleo não visível e dois vacúolos pulsáteis."
+                },
+                {
+                    "nome": "Entamoeba coli",
+                    "imagem": "./assets/imgs/06.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Não patogênico",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO maduro de forma arredondada, com parede cística delicada, contendo até 8 núcleos com cariossoma central."
+                },
+                {
+                    "nome": "Entamoeba coli",
+                    "imagem": "./assets/imgs/07.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo excêntrico",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos (aspecto sujo)",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Não patogênico",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO maduro de forma arredondada, com parede cística delicada, contendo até 8 núcleos com cariossoma central."
+                },
+                {
+                    "nome": "Entamoeba histolytica/ E. díspar",
+                    "imagem": "./assets/imgs/08.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossoma central",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "membrana mamilonada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos glicogênio",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede cística delicada",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba histolytica/E. dispar",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Amebíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO imaturo de forma arredondada, com parede cística delicada, presença de 1 ou mais núcleos com cariossoma central, corpos cromatóides em forma de bastão ou charuto e ocasionalmente, presença de vacúolo de glicogênio."
+                },
+                {
+                    "nome": "Entamoeba histolytica/E. díspar",
+                    "imagem": "./assets/imgs/09.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva interior",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato irregular",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossoma central",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cromatina perifécia",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede cística delicada",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba histolytica/E. dispar",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Amebíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "Cisto maduro com quatro núcleos e ausência de corpos cromatóides."
+                },
+                {
+                    "nome": "Enterobius vermicularis",
+                    "imagem": "./assets/imgs/10.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva interior",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cromatina parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Enterobius vermicularis",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Enterobiose",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "Ovo: Apresenta formato da letra 'D', com 55 µm x 25 µm de tamanho, cor clara, casca espessa formada por membranas justapostas. Em seu interior pode ser encontrado massa embrionária ou larva já formada. É evidenciado com menor frequência em amostras fecais por técnicas de concentração, sendo  diagnosticado pela técnica de Graham, também conhecida come técnica da fita adesiva."
+                },
+                {
+                    "nome": "Fasciola hepatica",
+                    "imagem": "./assets/imgs/11.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva interior",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cromatina parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Fasciolose",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "Ovos de tamanho grande (130 a 150 µm de comprimento por 60 a 100 µm de largura), cor amarelada,  forma elíptica, casca fina e opérculo em uma das extremidades. No interior do ovo há uma massa granulosa de células vitelinogênicas e no meio da mesma há uma célula-ovo com o seu núcleo.  O desenvolvimento da larva ocorrerá no ambiente em contato com água."
+                },
+                {
+                    "nome": "Giardia duodenalis",
+                    "imagem": "./assets/imgs/12.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva interior",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "axonemas",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede cística delicada",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Giardia duodenalis",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Giardíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "CISTO de forma ovalada, com parede cística delicada, presença de 4 núcleos com cariossoma central, corpos parabasais dispostos transversalmente e axonemas dispostos longitudinalmente."
+                },
+                {
+                    "nome": "Giardia duodenalis",
+                    "imagem": "./assets/imgs/13.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva interior",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossoma central",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "axonemas longitudinais",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "vacúolos pulsáteis",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Balantidium coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Giardia duodenalis",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Giardíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "TROFOZOÍTA de forma piriforme e simetria bilateral, com membrana celular delicada, presença de 2 núcleos com cariossoma central, corpos parabasais e axonemas dispostos longitudinalmente. Apresentam 4 pares de flagelos não visíveis."
+                },
+                {
+                    "nome": "Hymenolepis nana",
+                    "imagem": "./assets/imgs/14.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossoma central",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas longitudinais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "células vitelínicas",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "projeções mamilonares",
+                                    "correto": true
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Hymenolepis nana",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Fasciola hepatica",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Himenolepíase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "OVO : arredondado de casca espessa e clara, apresentando em seu interior um embrião com três pares de acúleos (embrião hexacanto ou oncosfera), envolvido por células vitelínicas e projeções mamilonares."
+                },
+                {
+                    "nome": "Trichuris trichuria",
+                    "imagem": "./assets/imgs/15.jpg",
+                    "perguntas": [
+                        {
+                            "enunciado": "Marque a(s) característica(s) correta(s)",
+                            "opcoes": [
+                                {
+                                    "descricao": "casca fina lisa",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "casca espessa",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "casca espessa radiada",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "opérculo ou opérculos",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "espícula lateral",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato arredondado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em 'D'",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bandeja ou barril",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "formato elíptico",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "formato em bolsa ou piriforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "até quatro núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "de cinco a oito núcleos com cariossomo",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "um ou dois núcleos com cariossoma central",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos cromatóides em forma de bastão",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "corpos parabasais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "axonemas longitudinais",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "células vitelínicas",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "núcleo riniforme",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "cílios",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "citóstoma",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede dupla",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "parede fina",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Diga a forma evolutiva",
+                            "opcoes": [
+                                {
+                                    "descricao": "cisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "oocisto",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "larva",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo com massa embrionária ou célula ovo",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "ovo com embrião hexacanto ou oncosfera",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "ovo larvado",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "trofozoíto",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual parasito é mostrado na imagem anterior?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Ascaris lumbricoides",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Hymenolepis nana",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Entamoeba coli",
+                                    "correto": false
+                                },
+                                {
+                                    "descricao": "Truchuris trichuria",
+                                    "correto": true
+                                },
+                                {
+                                    "descricao": "Ancilostomídeo",
+                                    "correto": false
+                                }
+                            ]
+                        },
+                        {
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "opcoes": [
+                                {
+                                    "descricao": "Tricuríase",
+                                    "correto": true
+                                }
+                            ]
+                        }
+                    ],
+                    "resumo": "",
+                    "caracteristica": "Ovo: Apresenta formato de barril, com presença de dois opérculos nas extremidades. Ovo de casca espessa com presença de massa embrionária única quando é recém eliminado. A massa embrionária no interior do ovo tende a evoluir formando uma mórula e posteriormente uma larva, sendo o ovo larvado considerado a forma infectante para os hospedeiros suscetíveis."
+                }
+            ]
+        }
+    ]
+}

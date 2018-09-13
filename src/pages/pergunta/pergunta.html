@@ -1,0 +1,49 @@
+<!--
+  Generated template for the PerguntaPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-content padding>
+
+    <div>
+        <img [src]="perguntaAtual.imagem"/>
+    </div>
+
+    <ion-card [hidden]="!mostraRespostaCorreta">
+        <ion-card-content>
+            <ion-card-title>
+                {{perguntaAtual.nome}}
+            </ion-card-title>
+            <p [hidden]="!perguntaAtual.resumo">
+                Resumo: {{perguntaAtual.resumo}}
+            </p>
+            <p [hidden]="!perguntaAtual.explicacao">
+                Explicacao: {{perguntaAtual.explicacao}}
+            </p>
+        </ion-card-content>
+    </ion-card>
+
+    <ion-card *ngFor="let perg of perguntaAtual.perguntas; let i = index">
+        <ion-card-content>
+            <ion-card-title>
+            {{perg.enunciado}}
+            </ion-card-title>
+            <ion-list>
+                <ion-item *ngFor="let opcao of perg.opcoes; let j = index" [ngClass]="opcao.isCorrect">
+                    <ion-label>{{opcao.descricao}}</ion-label>
+                    <ion-checkbox name="{{i}}{{j}}" [(ngModel)]="perguntaAtual.perguntas[i].opcoes[j].marcado" [disabled]="mostraRespostaCorreta"></ion-checkbox>
+                </ion-item>
+            </ion-list>
+        </ion-card-content> 
+    </ion-card>
+
+
+    <ion-fab right bottom>
+            <button ion-fab (click)="mostraProximaPergunta()" [hidden]="!mostraBotaoProximaPergunta"><ion-icon name="arrow-forward"></ion-icon></button>
+    </ion-fab>
+
+    <ion-fab right bottom>
+        <button ion-fab (click)="encerrarPerguntas()" [hidden]="mostraBotaoProximaPergunta"><ion-icon name="checkmark"></ion-icon></button>
+    </ion-fab>
+</ion-content>
