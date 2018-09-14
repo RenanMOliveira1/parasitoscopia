@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { NavController, NavParams } from 'ionic-angular';
+import { Component, ViewChild } from '@angular/core';
+import { NavController, NavParams, Content } from 'ionic-angular';
 import { SobrePage } from '../sobre/sobre';
 import { HttpClient } from '@angular/common/http'
 
@@ -8,6 +8,8 @@ import { HttpClient } from '@angular/common/http'
   templateUrl: 'pergunta.html',
 })
 export class PerguntaPage {
+
+	@ViewChild(Content) content: Content;
 
 	private indexPergunta = 0;
 	private totalPerguntas = 0;
@@ -26,7 +28,6 @@ export class PerguntaPage {
 			this.categoria = data["categorias"][this.indexPergunta]
 			this.perguntaAtual = this.categoria.grupos[this.indexPergunta];
 			this.totalPerguntas = this.categoria.grupos.length;
-			console.log(this.perguntaAtual);
 		})
 
 	}
@@ -34,6 +35,8 @@ export class PerguntaPage {
 	encerrarPerguntas() {
 		this.mostraRespostaCorreta = true;
 		this.mostraBotaoProximaPergunta = true;
+
+		this.content.scrollToTop(400);
 
 		this.mostraBackground();
 	}
@@ -46,6 +49,7 @@ export class PerguntaPage {
 			this.navCtrl.setRoot(SobrePage);
 		} else {
 			this.perguntaAtual = this.categoria.grupos[this.indexPergunta]
+			this.content.scrollToTop(400);
 		}
 	}
 
@@ -54,7 +58,6 @@ export class PerguntaPage {
 	}
 
 	mostraBackground(){
-		console.log(this.mostraRespostaCorreta);
 		this.perguntaAtual.perguntas.forEach(pergunta => {
 			pergunta.opcoes.forEach(opcao => {
 				opcao.isCorrect = 
