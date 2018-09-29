@@ -16,8 +16,8 @@
             <p [hidden]="!perguntaAtual.resumo">
                 Resumo: {{perguntaAtual.resumo}}
             </p>
-            <p [hidden]="!perguntaAtual.explicacao">
-                Explicacao: {{perguntaAtual.explicacao}}
+            <p [hidden]="!perguntaAtual.caracteristica">
+                Explicacao: {{perguntaAtual.caracteristica}}
             </p>
         </ion-card-content>
     </ion-card>
@@ -28,9 +28,14 @@
             {{perg.enunciado}}
             </ion-card-title>
             <ion-list>
-                <ion-item *ngFor="let opcao of perg.opcoes; let j = index" [ngClass]="opcao.isCorrect">
+                <ion-item  [hidden]="perg.discursiva" *ngFor="let opcao of perg.opcoes; let j = index" [ngClass]="opcao.isCorrect">
                     <ion-label>{{opcao.descricao}}</ion-label>
                     <ion-checkbox name="{{i}}{{j}}" [(ngModel)]="perguntaAtual.perguntas[i].opcoes[j].marcado" [disabled]="mostraRespostaCorreta"></ion-checkbox>
+                </ion-item>
+
+                <ion-item [hidden]="!perg.discursiva" [ngClass]="perg.opcoes[0].isCorrect">
+                    <ion-label floating>Resposta</ion-label>
+                    <ion-input type="text" [(ngModel)]="perguntaAtual.perguntas[i].opcoes[0].resposta" [disabled]="mostraRespostaCorreta"></ion-input>
                 </ion-item>
             </ion-list>
         </ion-card-content> 

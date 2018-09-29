@@ -1,7 +1,7 @@
 <ion-header>
   <ion-navbar>
     <ion-title mode="ios">
-      Parisitologia
+				Parasitoscopia
     </ion-title>
   </ion-navbar>
 </ion-header>
@@ -9,14 +9,14 @@
 <ion-content class="card-background-page">
 	<ion-card *ngFor="let categoria of categorias" (click)="goToPergunta($index)">
 		<img src="{{categoria.imagem}}">
-		<div class="card-title">{{categoria.nome}}</div>
+		<!-- <div class="card-title">{{categoria.nome}}</div> -->
 	</ion-card>
 	
-	<!-- <ion-card>
-		<img src="assets/imgs/logo.png"/>
-		<div class="card-title">São Paulo</div>
-	</ion-card>
 
+	<!-- <ion-card>
+		<img src="assets/imgs/em-breve.png"/>
+	</ion-card> -->
+	<!--
 	<ion-card>
 		<img src="ainda-nao-tem"/>
 		<div class="card-title">Em Breve</div>

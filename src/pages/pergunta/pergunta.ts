@@ -25,9 +25,15 @@ export class PerguntaPage {
 		this.indexPergunta = 0;
 
 		this.http.get('./assets/json/json.json').subscribe(data => {
-			this.categoria = data["categorias"][this.indexPergunta]
+			
+			this.categoria = data["categorias"][this.indexPergunta];
+			this.categoria.grupos = this.shuffle(this.categoria.grupos);
 			this.perguntaAtual = this.categoria.grupos[this.indexPergunta];
 			this.totalPerguntas = this.categoria.grupos.length;
+			this.perguntaAtual.perguntas.forEach(x => {
+				this.shuffle(x.opcoes);
+			})
+			//this.perguntaAtual.perguntas = this.shuffle(this.perguntaAtual.perguntas);
 		})
 
 	}
@@ -60,10 +66,41 @@ export class PerguntaPage {
 	mostraBackground(){
 		this.perguntaAtual.perguntas.forEach(pergunta => {
 			pergunta.opcoes.forEach(opcao => {
-				opcao.isCorrect = 
-					(opcao.correto == opcao.marcado && this.mostraRespostaCorreta) ?
-					'correto' : 'errado';
+
+				if(pergunta.discursiva){
+					opcao.resposta = opcao.resposta == null ? "" : opcao.resposta;
+					opcao.isCorret = 
+						(opcao.resposta.toLowerCase() == opcao.descricao.toLowerCase() &&
+						this.mostraRespostaCorreta) ? 
+						'correto' : 'errado';
+				} else {
+					opcao.marcado = (opcao.marcado == null) ? false : opcao.marcado;
+					if(opcao.marcado || (opcao.correto && !opcao.marcado)){
+						opcao.isCorrect = 
+							(opcao.correto == opcao.marcado && this.mostraRespostaCorreta) ?
+							'correto' : 'errado';
+					}
+				}
 			});
 		})
 	}
+
+	shuffle(array) {
+		var currentIndex = array.length, temporaryValue, randomIndex;
+	  
+		// While there remain elements to shuffle...
+		while (0 !== currentIndex) {
+	  
+		  // Pick a remaining element...
+		  randomIndex = Math.floor(Math.random() * currentIndex);
+		  currentIndex -= 1;
+	  
+		  // And swap it with the current element.
+		  temporaryValue = array[currentIndex];
+		  array[currentIndex] = array[randomIndex];
+		  array[randomIndex] = temporaryValue;
+		}
+	  
+		return array;
+	  }
 }

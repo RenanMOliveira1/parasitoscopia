@@ -2,6 +2,7 @@
     "categorias": [
         {
             "categoria": "protozoários intestinais",
+            "imagem":"./assets/imgs/Cover1.PNG",
             "grupos": [
                 {
                     "nome": "Ancilostomídeo",
@@ -160,6 +161,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Ancilostomose",
@@ -327,7 +329,8 @@
                             ]
                         },
                         {
-                            "enunciado": "",
+                            "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Ancilostomose",
@@ -496,6 +499,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Ascaridiose",
@@ -664,6 +668,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Balantidíase",
@@ -832,6 +837,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Balantidíase",
@@ -1000,6 +1006,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Não patogênico",
@@ -1168,6 +1175,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Não patogênico",
@@ -1336,6 +1344,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Amebíase",
@@ -1508,6 +1517,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Amebíase",
@@ -1680,6 +1690,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Enterobiose",
@@ -1693,7 +1704,7 @@
                 },
                 {
                     "nome": "Fasciola hepatica",
-                    "imagem": "./assets/imgs/11.jpg",
+                    "imagem": "./assets/imgs/11.PNG",
                     "perguntas": [
                         {
                             "enunciado": "Marque a(s) característica(s) correta(s)",
@@ -1852,6 +1863,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Fasciolose",
@@ -2024,6 +2036,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Giardíase",
@@ -2196,6 +2209,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Giardíase",
@@ -2364,6 +2378,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Himenolepíase",
@@ -2532,6 +2547,7 @@
                         },
                         {
                             "enunciado": "Qual doença causada por esse parasito?",
+                            "discursiva": true,
                             "opcoes": [
                                 {
                                     "descricao": "Tricuríase",

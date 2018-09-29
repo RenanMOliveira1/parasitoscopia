@@ -11,13 +11,15 @@ import { CommonModule } from '@angular/common';
 import { SobrePage } from '../pages/sobre/sobre';
 
 import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { LogoPage } from '../pages/logo/logo';
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage,
     PerguntaPage,
-    SobrePage
+    SobrePage,
+    LogoPage
   ],
   imports: [
     BrowserModule,
@@ -31,7 +33,8 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
     MyApp,
     HomePage,
     PerguntaPage,
-    SobrePage
+    SobrePage,
+    LogoPage
   ],
   providers: [
     StatusBar,

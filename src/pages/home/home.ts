@@ -19,7 +19,7 @@ export class HomePage {
         this.http.get('./assets/json/json.json').subscribe(data => {
 			this.categorias= data["categorias"].map(x => {
                 return {
-                    imagem: x.grupos[Math.floor(Math.random() * 6) + 1].imagem,
+                    imagem: x.imagem,
                     nome: x.categoria
                 }
             })
